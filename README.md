@@ -5,5 +5,5 @@ My personal repo as a Marketing Student
 
 Full software engineering pipeline docs:
 
-* [ UML Planning Project ]((https://github.com/vibinwithmariah/MariahGuzman-Portfolio/tree/827cd805f555c3535ddb137a09f5e59fc88a4ca8/CIS%20Projects))
+* [ UML Planning Project ](https://github.com/vibinwithmariah/MariahGuzman-Portfolio/tree/827cd805f555c3535ddb137a09f5e59fc88a4ca8/CIS%20Projects)
 * 
