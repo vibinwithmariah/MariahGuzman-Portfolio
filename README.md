@@ -10,7 +10,7 @@ Full software engineering pipeline docs:
 * [ Bello Salon Videos ](https://github.com/vibinwithmariah/MariahGuzman-Portfolio/blob/main/Social%20Media%20Content)
 
 ### Communications Flier
-* [ Non-Profit Sowing Seeds for Life ](https://github.com/vibinwithmariah/MariahGuzman-Portfolio/blob/main/SSFL-Flier.png)
+* [ Non-Profit Sowing Seeds for Life ](https://github.com/vibinwithmariah/MariahGuzman-Portfolio/blob/main/SSFL.pdf)
 
 ### Group Projects
 * [ Starbucks Academic Analysis ](https://github.com/vibinwithmariah/MariahGuzman-Portfolio/blob/main/MHR3010%20Team%2011%20Report.pdf)
