@@ -1,4 +1,4 @@
-# MariahGuzman-Portfolio projects, BS Marketing Cal Poly Pomona '27
+# MariahGuzman-Portfolio projects, BS Marketing Cal Poly Pomona Fall 2026
 My personal repo as a Marketing Student
 
 ### Merchandise application for fesitvals
